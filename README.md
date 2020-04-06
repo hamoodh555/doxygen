@@ -1,9 +1,6 @@
-# Stupid-Learn
+# Doxy-Learn
 
 This repository is a simple compilation of naive implementations of common machine learning algorithms in c++.
-
-Most of the impleentations are non regularized and are a mix of techniques from Andrew Ng's course on coursera 
-and Tom M. Mitchell's book, "Machine Learning".
 
 Please install [armadillo](http://arma.sourceforge.net/) before trying out any of the examples.
 
@@ -16,4 +13,3 @@ Please install [armadillo](http://arma.sourceforge.net/) before trying out any o
   
 ## Documentation
   - I have recently come across Doxygen as a documentation tool and have used it for the class documentation.
-  - You can start reading the documentation here [Stupid-Learn-Documentation](https://abhay447.github.io/stupid-learn/html/index.html).
